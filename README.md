@@ -11,7 +11,7 @@ To play the existing beats
 3) Run the application
 4) Choose which drum to play (hiTom, midTom, etc.) 
 
-To record the new beats:
+To record the new beats
 5) Press the record button
 6) Press any of the other combinations of buttons to record (virtually) - If you have an actual drumset, you can record your own beats (recording time is set for 15 seconds)
 7) To listen to the recorded music press the playback button
