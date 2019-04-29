@@ -4,6 +4,7 @@ This enables to create beats with a click of a button.
 Apart from that, it also provides functionality to record your beats/music. 
 
 Instructions to run the app: 
+(Follow the first four instructions before recording new beats) 
 
 To play the existing beats
 1) Download the code onto Eclipse
