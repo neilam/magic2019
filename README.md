@@ -16,3 +16,6 @@ To record the new beats:
 1) Press the record button
 2) Press any of the other combinations of buttons to record (virtually) - If you have an actual drumset, you can record your own beats (recording time is set for 15 seconds)
 3) To listen to the recorded music press the playback button
+
+
+https://github.com/rmangtani/magic2019
